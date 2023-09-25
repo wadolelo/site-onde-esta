@@ -1,1 +1,32 @@
-
+body{
+  background-color: rgb(147, 23, 23);
+    margin-top: 0;
+    margin-bottom: 0;
+    margin-left: 0;
+    margin-right: 0;
+}
+.cabecalho{
+background-color: rgb(146, 21, 21);
+    color: cornsilk;
+    font-size: 30px;
+    margin-top: 0;
+    padding: 3px;
+    text-align: center;
+}
+.Principal{
+    background-color: rgb(255, 255, 255);
+    padding: 50px;
+    display: flex;
+    justify-content: center;
+}
+.flor{
+    width: 333px;
+    border-radius: 90%;
+}
+.rodape{
+    background-color: rgb(222, 60, 60);
+    color: cornsilk;
+    font-size: 27px;
+    margin-top: 0;
+    padding: 1px; text-align: center;
+}
